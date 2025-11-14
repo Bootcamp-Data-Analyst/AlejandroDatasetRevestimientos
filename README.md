@@ -15,6 +15,9 @@ El archivo contiene datos de ventas de distintos productos de construcción (com
 - el beneficio,
 - la zona,
 - y el comercial que hizo la venta.
+- ...
+  
+
 
 ---
 
