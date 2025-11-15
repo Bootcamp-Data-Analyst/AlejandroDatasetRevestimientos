@@ -66,3 +66,14 @@ Con este proyecto he aprendido cosas básicas pero muy importantes:
 - y cómo hacer un dashboard sencillo pero funcional.
 
 Es un primer paso en el mundo del análisis de datos y me ha servido para perderle el miedo a Excel y a los datos grandes.
+
+## Comentario adicional sobre el problema del idioma de los meses en Excel
+
+Como comentario adicional, me encontré con un problema que no pude solucionar: los meses aparecían en inglés. Cambié la configuración de Excel porque pensaba que estaba en ese idioma, pero no funcionó. También modifiqué el formato de fechas en las tablas, pero tampoco se solucionó.
+
+No pude cambiar el idioma pese a tenerlo todo bien configurado, ya que inicialmente los meses sí aparecían en castellano y, de repente, se modificaron solos. No sé si fue el propio query, al ejecutarse, el que cambió algunos parámetros o si se debe a otra causa.
+
+
+
+
+
